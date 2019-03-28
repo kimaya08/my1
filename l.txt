@@ -15,7 +15,7 @@ printf("%s\t",sd->d_name);
 closedir(dp);
 }
 
-
+ero
 
 
 Implement in C mv UNIX command using system calls.
